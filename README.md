@@ -1,3 +1,5 @@
+AI-GENERATED VS CAPTURED-IMAGE CLASSIFIER
+
 The primary objective of this project is to develop a robust and efficient system that can identify whether an image is AI-generated or real. 
 This involves Collecting and preparing a diverse dataset of AI-generated and real images.
 Training a deep learning model using the FastAI library to classify these images accurately.
